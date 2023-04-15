@@ -1,3 +1,3 @@
 # WellTouch
 Simple website for information
-HTML, CSS, Bootstrap
+#HTML, CSS, Bootstrap
